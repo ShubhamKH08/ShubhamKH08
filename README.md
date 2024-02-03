@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Shubham Hagawane</h1>
+<h1 align="center">Hi 👋, myself Shubham Hagawane</h1>
 <h3 align="center">Specializing in web and Android app development, AI/ML, and UI/UX design, I am passionate about leveraging technology to drive innovation. With a keen eye for blending code and design harmoniously, I create intuitive and impactful solutions that captivate users. Additionally, I am honored to be recognized as a winner of SIH 2023.22</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkh08&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkh08" /> </p>
