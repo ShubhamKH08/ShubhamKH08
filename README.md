@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning OpenCV and 3D<br><br>👨‍💻 Some of my projects are available at [Agrimax, Axiomatica, Medic, Industrio](Agrimax, Axiomatica, Medic, Industrio)<br><br>📫 How to reach me hagawaneshubham908@gmail.com
+🌱 I’m currently learning OpenCV and 3D<br><br>👨‍💻 Some of my projects are available at Agrimax, Axiomatica, Medic, Industrio<br><br>📫 How to reach me hagawaneshubham908@gmail.com
 
 
 ## 🌐 Socials:
