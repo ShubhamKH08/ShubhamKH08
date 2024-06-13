@@ -4,7 +4,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamKH08&icon=5&color=12)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=shubhamkh08&label=Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
