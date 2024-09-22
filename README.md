@@ -5,8 +5,8 @@
 ---
 
 [![Full Stack Developer & AIML Enthusiast](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif) ](link_URL)
-[![](https://visitcount.itsvg.in/api?id=ShubhamKH08&icon=5&color=12)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=ShubhamKH08&icon=5&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
