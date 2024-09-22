@@ -3,6 +3,8 @@
 
 
 ---
+
+[![Full Stack Developer & AIML Enthusiast](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif) ](link_URL)
 [![](https://visitcount.itsvg.in/api?id=ShubhamKH08&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -18,6 +20,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKH08&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKH08&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Full Stack Developer & AIML Enthusiast](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif) ](link_URL)
 
 ![](https://github-contributor-stats.vercel.app/api?username=ShubhamKH08&limit=5&theme=radical&combine_all_yearly_contributions=true)
