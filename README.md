@@ -18,6 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKH08&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKH08&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Alt text for your image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)](link_URL)
+[![Alt text for your image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif) style="display: block; margin: 0 auto;"](link_URL)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShubhamKH08&limit=5&theme=radical&combine_all_yearly_contributions=true)
