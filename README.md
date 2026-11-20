@@ -1,16 +1,12 @@
 <h1 align="center"> 💫 About Me:</h1>
-🌱 I’m currently learning OpenCV and 3D<br><br>👨‍💻 Some of my projects are available at [Agrimax, Axiomatica, Medic, Industrio](Agrimax, Axiomatica, Medic, Industrio)<br><br>📫 How to reach me hagawaneshubham908@gmail.com
+🌱 I’m currently learning OpenCV and 3D<br><br>👨‍💻 Some of my projects are available at [Agrimax, Axiomatica, Medic, Industrio](Agrimax, Axiomatica, Medic, Industrio)<br><br>
 
 
 ---
 
 [![Full Stack Developer & AIML Enthusiast](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif) ](link_URL)
 
-[![](https://visitcount.itsvg.in/api?id=ShubhamKH08&icon=5&color=12)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-hagawane-181380229) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ShubhamKH08) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23341013/shubhamkh08) 
+stack-overflow&logoColor=white)](https://stackoverflow.com/users/23341013/shubhamkh08) 
 
 
 # 💻 Tech Stack:
